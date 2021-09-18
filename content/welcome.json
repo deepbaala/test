@@ -1,4 +1,5 @@
 {
     "text":"Welcome to Git World",
-    "Modified in local repo":"Modified in local repo"
+    "Modified in local repo":"Modified in local repo",
+    "modified in remote-repo": "modified in remote-repo"
 }
